@@ -11,6 +11,8 @@ import random   #乱数
 # from PIL import Image, ImageDraw, ImageFilter
 # import io
 
+# らびょさん作　Ver1.00
+
 #実行する環境の環境変数に'DISCORD_BOT_TOKEN'を登録しておけば、
 #ローカルPC実行、Heloku実行どちらでも対応可能です。
 #GitHubにアップするときは、botトークンはソースに残してはいけない(コメントアウトでもだめ)
